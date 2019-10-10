@@ -1,0 +1,671 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: black;
+}
+
+.container{
+  position: relative;
+  width: 375pt;
+  height: 812pt;
+  background-image: linear-gradient(150deg,   #34C7A0, #008AA2);
+  position: absolute;
+  opacity: 100%;
+}
+.container .box{
+  position: absolute;
+  width: 340pt;
+  height: 117pt;
+  background-color: #FFFFFF;
+  margin-left: 18pt;
+  margin-top: 20pt;
+  border-radius: 28pt;
+}
+.container h1{
+  cursor: pointer;
+  font-family: Helvetica, Bold;
+  color: #00B6A3;
+  font-size: 34pt;
+  width: 162pt;
+  height: 40pt;
+  margin-left: 27pt;
+  margin-top: 24pt;
+  margin-bottom: 10pt;
+}
+.container h2{
+  font-family: Helvetica, medium;
+  font-size: 16pt;
+  content: normal;
+  color: #898694;
+  margin-left: 27pt;
+  margin-top: 0pt;
+}
+
+.dani h1{
+  color: white;
+  border: none;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 11pt;
+  margin-top: 50pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani h2{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 81pt;
+  margin-top: 50pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani h3{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 151pt;
+  margin-top: 50pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani h4{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 221pt;
+  margin-top: 50pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani h5{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 292pt;
+  margin-top: 50pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+
+.container1{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 0pt;
+  margin-top: 40pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+
+
+
+
+.container2{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 70pt;
+  margin-top: 40pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container3{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 140pt;
+  margin-top: 40pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container4{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 210pt;
+  margin-top: 40pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container5{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 280pt;
+  margin-top: 40pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.activity{
+  position: relative;
+  width: 340pt;
+  height: 180pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 18pt;
+  margin-top: 257pt;
+  border-radius: 28pt;
+  opacity: 0.25;
+}
+
+.activitynaslov h1{
+  font-family: Helvetica, medium;
+  font-size: 20pt;
+  width: 72pt;
+  height: 24pt;
+  margin-top: 279pt;
+  margin-bottom: 0pt;
+  margin-left: 94pt;
+  color: white;
+}
+.activitynaslov h2{
+  font-family: Helvetica, medium;
+  font-size: 16pt;
+  width: 62pt;
+  height: 19pt;
+  margin-top: 3pt;
+  margin-left: 94pt;
+  color: white;
+  opacity: 0.7;
+}
+.activitynaslov h3{
+  font-family: Helvetica, medium;
+  font-size: 20pt;
+  width: 55pt;
+  height: 24pt;
+  margin-top: 153pt;
+  margin-bottom: 0pt;
+  margin-left: 94pt;
+  color: white;
+}
+.activitynaslov h4{
+  font-family: Helvetica, medium;
+  font-size: 16pt;
+  width: 36pt;
+  height: 19pt;
+  margin-top: 3pt;
+  margin-bottom: 0pt;
+  margin-left: 94pt;
+  color: white;
+  opacity: 0.7;
+}
+.activitynaslov h5{
+  font-family: Helvetica, medium;
+  font-size: 20pt;
+  width: 79pt;
+  height: 24pt;
+  margin-top: 62pt;
+  margin-bottom: 0pt;
+  margin-left: 94pt;
+  color: white;
+}
+.activitynaslov h6{
+  font-family: Helvetica, medium;
+  font-size: 16pt;
+  width: 107pt;
+  height: 19pt;
+  margin-top: 3pt;
+  margin-bottom: 0pt;
+  margin-left: 94pt;
+  color: white;
+  opacity: 0.7;
+}
+.steps{
+  position: relative;
+  width: 340pt;
+  height: 93pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 18pt;
+  margin-top: 456pt;
+  border-radius: 28pt;
+  opacity: 0.25;
+}
+
+
+.caloris{
+  position: relative;
+  width: 340pt;
+  height: 93pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 18pt;
+  margin-top: 564pt;
+  border-radius: 28pt;
+  opacity: 0.25;
+}
+.slika1{
+width: 27.32;
+height: 27.32;
+margin-left: 48.85pt;
+margin-top: 290.83pt;
+position: absolute;
+}
+.dot {
+  height: 40.49pt;
+  width: 40.49pt;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 38.02pt;
+  margin-top: 282pt;
+  opacity: 0.25;
+}
+.slika2{
+width: 27.32;
+height: 27.32;
+margin-left: 48.85pt;
+margin-top: 489.83pt;
+position: absolute;
+}
+.dot2 {
+  height: 40.49pt;
+  width: 40.49pt;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 38.02pt;
+  margin-top: 481pt;
+  opacity: 0.25;
+}
+
+.slika3{
+width: 27.32;
+height: 27.32;
+margin-left: 48.85pt;
+margin-top: 597pt;
+position: absolute;
+}
+.dot1 {
+  height: 40.49pt;
+  width: 40.49pt;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 38.02pt;
+  margin-top: 589pt;
+  opacity: 0.25;
+}
+.vreme{
+  position: absolute;
+}
+.koraci{
+  position: absolute;
+}
+.kalorije{
+  position: absolute;
+}
+.vreme h1{
+  width: 180pt;
+  height: 45pt;
+  font-family: Helvetica, Bold;
+  font-size: 38pt;
+  color: white;
+  margin-top: 213pt;
+  margin-left: 76pt;
+}
+.koraci h1{
+  width: 100pt;
+  height: 45pt;
+  font-family: Helvetica, Bold;
+  font-size: 38pt;
+  color: white;
+  margin-top: 355pt;
+  margin-left: 211pt;
+}
+.kalorije h1{
+  width: 64pt;
+  height: 45pt;
+  font-family: Helvetica, Bold;
+  font-size: 38pt;
+  color: white;
+  text-align: center;
+  margin-top: 461pt;
+  margin-left: 241pt;
+}
+
+/*druga strana*/
+
+
+
+.velikibox{
+  position: absolute;
+  width: 340pt;
+  height: 555pt;
+  background-color: #FFFFFF;
+  opacity: 100%;
+  margin-left: 18pt;
+  margin-top: 257pt;
+  border-radius: 28pt;
+}
+
+.container11{
+  margin: 0pt;
+  position: absolute;
+  width: 375pt;
+  height: 812pt;
+  background-image: linear-gradient(150deg,   #34C7A0, #008AA2);
+}
+.container11 .box11{
+  position: absolute;
+  width: 340pt;
+  height: 117pt;
+  background-color: white;
+  margin-left: 18pt;
+  margin-top: 20pt;
+  border-radius: 28pt;
+  opacity: 0.25;
+}
+.dan h1{
+  position: absolute;
+  width: 137pt;
+  height: 40pt;
+  font-family: Helvetica,Bold;
+  font-size: 34pt;
+  color: white;
+  margin-left: 78pt;
+  margin-top: 44pt;
+}
+.dan h2{
+  position: absolute;
+  width: 110pt;
+  height: 19pt;
+  font-family: Helvetica,Medium;
+  font-size: 16pt;
+  color: white;
+  margin-left: 78pt;
+  margin-top: 94pt;
+  opacity: 0.7;
+}
+
+.dnevnibrojkoraka h1{
+  position: absolute;
+  width: 125pt;
+  height: 57pt;
+  font-family: Helvetica,Bold;
+  font-size: 48pt;
+  color: #151C1F;
+  margin-left: 125pt;
+  margin-top: 399pt;
+  text-align: center;
+}
+.km h1{
+  position: absolute;
+  width: 58pt;
+  height: 48pt;
+  font-family: Helvetica,Bold;
+  font-size: 40pt;
+  color: #00B6A3;
+  margin-left: 51pt;
+  margin-top: 735pt;
+}
+.km h2{
+  position: absolute;
+  width: 69pt;
+  height: 48pt;
+  font-family: Helvetica,Bold;
+  font-size: 40pt;
+  color: #00B6A3;
+  margin-left: 154pt;
+  margin-top: 735pt;
+}
+.km h3{
+  position: absolute;
+  width: 22pt;
+  height: 48pt;
+  font-family: Helvetica,Bold;
+  font-size: 40pt;
+  color: #00B6A3;
+  margin-left: 270pt;
+  margin-top: 735pt;
+  align-items: center;
+}
+.container15{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 18pt;
+  margin-top: 167pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container25{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 88pt;
+  margin-top: 167pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container35{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 158pt;
+  margin-top: 167pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container45{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 228pt;
+  margin-top: 167pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.container55{
+  position: absolute;
+  width: 60pt;
+  height: 60pt;
+  background-color: #FFFFFF;
+  position: absolute;
+  opacity: 100%;
+  margin-left: 298pt;
+  margin-top: 167pt;
+  border-radius: 23pt;
+  opacity: 0.25;
+}
+.dot3 {
+  height: 40.98pt;
+  width: 40.98pt;
+  background-color: #00B6A3;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 149pt;
+  margin-top: 68pt;
+  opacity: 0.25;
+}
+.slika22{
+width: 24pt;
+height: 24pt;
+margin-left: 158pt;
+margin-top: 76pt;
+position: absolute;
+}
+.velikibox h1{
+  width: 54pt;
+  height: 23pt;
+  font-family: Helvetica, regular;
+  font-size: 20pt;
+  color:#151C1F;
+  margin-left: 143pt;
+  margin-top: 115pt;
+  position: absolute;
+}
+
+.velikibox h2{
+  width: 105pt;
+  height: 23pt;
+  font-family: Helvetica;
+  font-size: 20pt;
+  color:#151C1F;
+  margin-left: 122pt;
+  margin-top: 301pt;
+  position: absolute;
+}
+.velikibox h3{
+  width: 238pt;
+  height: 48pt;
+  font-family: Helvetica;
+  font-size: 40pt;
+  color:#151C1F;
+  margin-left: 52pt;
+  margin-top: 324pt;
+  position: absolute;
+}
+.velikibox h4{
+  width: 25pt;
+  height: 21pt;
+  font-family: Helvetica;
+  font-size: 18pt;
+  color:#B3B3B3;
+  margin-left: 48pt;
+  margin-top: 457pt;
+  position: absolute;
+}
+.velikibox h5{
+  width: 238pt;
+  height: 48pt;
+  font-family: Helvetica;
+  font-size: 18pt;
+  color:#B3B3B3;
+  margin-left: 156pt;
+  margin-top: 457pt;
+  position: absolute;
+}
+.velikibox h6{
+  width: 238pt;
+  height: 48pt;
+  font-family: Helvetica;
+  font-size: 18pt;
+  color:#B3B3B3;
+  margin-left: 254pt;
+  margin-top: 457pt;
+  position: absolute;
+}
+.dot4 {
+  height: 231pt;
+  width: 231pt;
+  border: 8pt solid #00B6A3 ;
+  border-radius: 50%;
+  position: absolute;
+  margin-left: 45pt;
+  margin-top: 40pt;
+}
+.dani2 h1{
+  color: white;
+  border: none;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 29pt;
+  margin-top: 178pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani2 h2{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 100pt;
+  margin-top: 178pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani2 h3{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 169pt;
+  margin-top: 178pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani2 h4{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 239pt;
+  margin-top:178pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.dani2 h5{
+  color: white;
+  font-family: Helvetica ,medium;
+  position: absolute;
+  text-align: center;
+  width: 38pt;
+  height: 38pt;
+  margin-left: 309pt;
+  margin-top: 178pt;
+  font-size: 16pt;
+  opacity: 0.7;
+}
+.backdugme{
+  position: absolute;
+  width: 40pt;
+  height: 40pt;
+  margin-left: 29pt;
+  margin-top: 59pt;
+}
